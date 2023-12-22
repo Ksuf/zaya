@@ -213,16 +213,19 @@
     }
     .article-feb1{
         margin: 0;
-        width: 360px;
+/*         width: 360px; */
+        width: 100%;
     }
     .recent-block{
-        width: 360px;
+/*         width: 360px; */
+        width: 100%;
         height: 647px;
     }
     .recent-block-all{
         display: flex;
         flex-direction: column;
-        width: 360px;
+/*         width: 360px; */
+        width: 100%;
         gap: 20px;
     }
     .text-making{
